@@ -19,35 +19,3 @@
   </div>
   <hr style="width: 100%; height: 4px; overflow: hidden; position: relative; border: none; background: linear-gradient(-120deg, transparent 20%, #08f, #f03 99%, transparent); background-size: 200% 100%; animation: bar-move-reverse 1.5s linear infinite;">
 </div>
-
-<style>
-@keyframes border-spin {
-  to {
-    --border-angle: 1turn;
-  }
-}
-
-@keyframes bar-move {
-  0% {
-    background-position: 200% 0;
-  }
-  100% {
-    background-position: 0 0;
-  }
-}
-
-@keyframes bar-move-reverse {
-  0% {
-    background-position: 0 0;
-  }
-  100% {
-    background-position: 200% 0;
-  }
-}
-
-@property --border-angle {
-  syntax: "<angle>";
-  inherits: true;
-  initial-value: 0turn;
-}
-</style>
