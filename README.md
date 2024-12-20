@@ -1,11 +1,11 @@
 # Fikri Noor Arafah
 
-**Full Stack Enthusiasts | Mahasiswa Sistem Informasi Universitas Brawijaya**  
-Malang, Jawa Timur, Indonesia
+**Full Stack Enthusiasts | Undergraduate Student of Information Systems, Brawijaya University**  
+Malang, East Java, Indonesia
 
 ---
 
-## 📞 Kontak
+## Contact
 
 - **Whatsapp:** [6285755449896](https://wa.me/+6285755449896)
 - **Email:** [fikrinoor790@gmail.com](mailto:fikrinoor790@gmail.com)
@@ -14,113 +14,111 @@ Malang, Jawa Timur, Indonesia
 
 ---
 
-# 🛠 Keahlian Pemrograman
+# Programming Skills
 
-### 🌐 JavaScript & Ekosistem
+### JavaScript & Ecosystem
 
-- **JavaScript**: ⭐⭐⭐⭐⭐ (5/5)
-- **Node.js**: ⭐⭐⭐⭐ (4/5)
-- **React.js**: ⭐⭐⭐ (3/5)
-- **Next.js**: ⭐⭐⭐⭐ (4/5)
-- **Express.js**: ⭐⭐⭐⭐ (4/5)
-- **NestJS**: ⭐⭐ (2/5)
-- **TypeScript**: (Sudah digunakan di atas tools/framework terkait)
+- **JavaScript**: 5/5
+- **Node.js**: 4/5
+- **React.js**: 3/5
+- **Next.js**: 4/5
+- **Express.js**: 4/5
+- **NestJS**: 2/5
+- **TypeScript**: (Used within the tools/frameworks listed above)
 
-### 🐘 PHP & Framework
+### PHP & Framework
 
-- **PHP**: ⭐⭐⭐⭐ (4/5)
-- **Laravel**: ⭐⭐⭐⭐ (4/5)
-- **CodeIgniter**: ⭐⭐⭐ (3/5)
+- **PHP**: 4/5
+- **Laravel**: 4/5
+- **CodeIgniter**: 3/5
 
-### ☕️ Java & Ekosistem
+### Java & Ecosystem
 
-- **Java**: ⭐⭐⭐⭐ (4/5)
-- **Spring Boot**: ⭐⭐ (2/5)
-- **JavaFX**: ⭐⭐⭐ (3/5)
-- **Swing**: ⭐⭐ (2/5)
+- **Java**: 4/5
+- **Spring Boot**: 2/5
+- **JavaFX**: 3/5
+- **Swing**: 2/5
 
-### 📱 Kotlin
+### Kotlin
 
-- **Kotlin**: ⭐⭐⭐ (3/5)
-- **Jetpack Compose**: ⭐⭐⭐ (3/5)
+- **Kotlin**: 3/5
+- **Jetpack Compose**: 3/5
 
-### 🐍 Python & Framework
+### Python & Framework
 
-- **Python**: ⭐⭐ (2/5)
-- **Flask**: ⭐⭐ (2/5)
-- **Django**: ⭐⭐ (2/5)
+- **Python**: 2/5
+- **Flask**: 2/5
+- **Django**: 2/5
 
-### 🦾 GoLang
+### GoLang
 
-- **GoLang**: ⭐⭐⭐ (3/5)
-- **Gin & GORM**: ⭐⭐⭐ (3/5)
--
+- **GoLang**: 3/5
+- **Gin & GORM**: 3/5
 
-### 🎯 Dart & Flutter
+### Dart & Flutter
 
-- **Dart**: ⭐⭐⭐ (3/5)
-- **Flutter**: ⭐⭐⭐ (3/5)
+- **Dart**: 3/5
+- **Flutter**: 3/5
 
-### ⚙️ Bahasa Lainnya
+### Other Languages
 
-- **C++**: ⭐⭐ (2/5) _(Basic OOP)_
-- **C#**: ⭐⭐⭐ (3/5) _(Untuk pengembangan game)_
-- **C**: ⭐⭐ (2/5) _(Basic OOP)_
+- **C++**: 2/5 (Basic OOP)
+- **C#**: 3/5 (For game development)
+- **C**: 2/5 (Basic OOP)
 
 ---
 
-## 🔧 Teknologi dan Tools
+## Tools and Technologies
 
 - **Version Control**: Git, GitHub
 - **DevOps**: Docker
 - **Database**: SQLite, MySQL, PostgreSQL, DB2, MongoDB, Elasticsearch
 - **Cloud Platform**: Firebase
-- **IDE**: JetBrains Suite (WebStorm, PhpStorm, GoLand, IntelliJ IDEA, PyCharm, Rider, Clion, Android Studio), Visual
-  Studio Code, Unity
-
-___
-
-## 🌐 Bahasa
-
-- **Bahasa Inggris**: Kemampuan Profesional
-- **Bahasa Jawa**: Penutur Asli
-- **Bahasa Indonesia**: Penutur Asli
+- **IDE**: JetBrains Suite (WebStorm, PhpStorm, GoLand, IntelliJ IDEA, PyCharm, Rider, CLion, Android Studio), Visual Studio Code, Unity
 
 ---
 
-## 🏅 Penghargaan
+## Languages
 
-- **Juara 2**: ASEAN Energy Youth Award 2023
-
----
-
-## 💼 Pengalaman Kerja
-
-### **BCC Fakultas Ilmu Komputer Universitas Brawijaya**
-
-- **Back End Developer:** Maret 2023 – Sekarang (1 tahun 10 bulan)  
-  _Kota Malang, Jawa Timur, Indonesia_
-- **Internship Trainee:** Februari 2023 – Maret 2023 (2 bulan)  
-  _Kota Malang, Jawa Timur, Indonesia_
-
-### **Fakultas Ilmu Komputer Universitas Brawijaya**
-
-- **Asisten Dosen (Pemrograman Lanjutan):** Februari 2024 – Juli 2024 (6 bulan)
-- **Asisten Dosen (Pemrograman Dasar):** September 2023 – Januari 2024 (5 bulan)
-
-### **Elecomp Indonesia**
-
-- **Frontend Developer:** April 2021 – Desember 2021 (9 bulan)  
-  _Malang, Jawa Timur, Indonesia_
+- **English**: Professional Proficiency
+- **Javanese**: Native Speaker
+- **Indonesian**: Native Speaker
 
 ---
 
-## 🎓 Pendidikan
+## Honors & Awards
 
-### **Universitas Brawijaya**
+- **Second Place**: ASEAN Energy Youth Award 2023
 
-- **Sarjana Teknologi (S.Tek), Sistem Informasi:** 2022 – 2026
+---
 
-### **SMK Negeri 4 Malang**
+## Work Experience
 
-- **Diploma SMA, Rekayasa Perangkat Lunak:** Agustus 2019 – Juli 2022  
+### BCC Faculty of Computer Science, Brawijaya University
+
+- **Back End Developer:** March 2023 – Present (1 year 10 months)  
+  Malang, East Java, Indonesia
+- **Internship Trainee:** February 2023 – March 2023 (2 months)  
+  Malang, East Java, Indonesia
+
+### Faculty of Computer Science, Brawijaya University
+
+- **Teaching Assistant (Advanced Programming):** February 2024 – July 2024 (6 months)
+- **Teaching Assistant (Basic Programming):** September 2023 – January 2024 (5 months)
+
+### Elecomp Indonesia
+
+- **Frontend Developer:** April 2021 – December 2021 (9 months)  
+  Malang, East Java, Indonesia
+
+---
+
+## Education
+
+### Brawijaya University
+
+- **Bachelor of Technology (B.Tech), Information Systems:** 2022 – 2026
+
+### SMK Negeri 4 Malang
+
+- **High School Diploma, Software Engineering:** August 2019 – July 2022  
