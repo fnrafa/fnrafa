@@ -16,55 +16,20 @@ Malang, East Java, Indonesia
 
 # Programming Skills
 
-### JavaScript & Ecosystem
-
-- **JavaScript**: 5/5
-- **Node.js**: 4/5
-- **React.js**: 3/5
-- **Next.js**: 4/5
-- **Express.js**: 4/5
-- **NestJS**: 2/5
-- **TypeScript**: (Used within the tools/frameworks listed above)
-
-### PHP & Framework
-
-- **PHP**: 4/5
-- **Laravel**: 4/5
-- **CodeIgniter**: 3/5
-
-### Java & Ecosystem
-
-- **Java**: 4/5
-- **Spring Boot**: 2/5
-- **JavaFX**: 3/5
-- **Swing**: 2/5
-
-### Kotlin
-
-- **Kotlin**: 3/5
-- **Jetpack Compose**: 3/5
-
-### Python & Framework
-
-- **Python**: 2/5
-- **Flask**: 2/5
-- **Django**: 2/5
-
-### GoLang
-
-- **GoLang**: 3/5
-- **Gin & GORM**: 3/5
-
-### Dart & Flutter
-
-- **Dart**: 3/5
-- **Flutter**: 3/5
-
-### Other Languages
-
-- **C++**: 2/5 (Basic OOP)
-- **C#**: 3/5 (For game development)
-- **C**: 2/5 (Basic OOP)
+| **Category**   | **Skills**  | **Proficiency** | **Category**        | **Skills**      | **Proficiency** |
+|----------------|-------------|-----------------|---------------------|-----------------|-----------------|
+| **JavaScript** | JavaScript  | 5/5             | **Kotlin**          | Kotlin          | 3/5             |
+|                | Node.js     | 4/5             |                     | Jetpack Compose | 3/5             |
+|                | React.js    | 3/5             | **Python**          | Python          | 2/5             |
+|                | Next.js     | 4/5             |                     | Flask           | 2/5             |
+|                | Express.js  | 4/5             |                     | Django          | 2/5             |
+| **PHP**        | PHP         | 4/5             | **GoLang**          | GoLang          | 3/5             |
+|                | Laravel     | 4/5             |                     | Gin & GORM      | 3/5             |
+|                | CodeIgniter | 3/5             | **Dart & Flutter**  | Dart            | 3/5             |
+| **Java**       | Java        | 4/5             |                     | Flutter         | 3/5             |
+|                | Spring Boot | 2/5             | **Other Languages** | C++             | 2/5             |
+|                | JavaFX      | 3/5             |                     | C#              | 3/5             |
+|                | Swing       | 2/5             |                     | C               | 2/5             |
 
 ---
 
