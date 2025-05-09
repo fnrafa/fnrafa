@@ -44,16 +44,8 @@
 **Sekawan Media**  
 *Full Stack Developer Intern* (Jan 2025 – Present)
 
-- Built dynamic UI components with React.js & Next.js
-- Designed RESTful APIs and integrated with PostgreSQL
-- Implemented Docker-based CI/CD pipelines with GitHub Actions
-
 **Techwork Programmer**  
-*Main Developer & Technical Lead* (Mar 2025 – Present)
-
-- Architected core frameworks and coding standards
-- Mentored junior developers; led code reviews & pair programming
-- Planned feature roadmap and ensured quality releases
+*Main Developer & Technical Lead* (Mar 2024 – Present)
 
 **Faculty of Computer Science, Brawijaya University**
 
@@ -67,9 +59,6 @@
 
 **Elecomp Indonesia**  
 *Frontend Developer* (Apr 2021 – Dec 2021)
-
-- Developed responsive UI modules in Vue.js and vanilla JavaScript
-- Collaborated with designers to optimize UX & accessibility
 
 ---
 
