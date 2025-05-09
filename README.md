@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.icons8.com/color/96/000000/user-male-circle.png" alt="Profile" width="96"/>
+  <img src="https://avatars.githubusercontent.com/u/69609381?v=4" alt="Profile" width="96"/>
   <h1 align="center">Hi, I'm Fikri Noor Arafah 👋</h1>
   <p align="center">
     <a href="https://linkedin.com/in/fikrinoorarafah">
@@ -22,7 +22,7 @@
 - 🔭 Interning as **Full Stack Developer** at **Sekawan Media**
 - 🚀 Main Developer & Technical Lead at **Techwork Programmer**
 - 💬 Passionate about real-time collaboration, scalable microservices & clean architecture
-- 🌱 Learning **Next.js**, **Docker**, **Elasticsearch**, **TypeScript**
+- 🌱 Currently diving into **Three.js**, **Web3** & other emerging technologies
 
 ---
 
@@ -30,7 +30,7 @@
 
 | Domain              | Technologies                                                                              |
 |---------------------|-------------------------------------------------------------------------------------------|
-| **Frontend**        | JavaScript · React · Next.js · Flutter                                                    |
+| **Frontend**        | JavaScript · React · Next.js · Flutter · Kotlin · Jetpack Compose                         |
 | **Backend**         | Node.js · Express · PHP · Laravel · Go (Gin) · Python (Flask/Django) · Java (Spring Boot) |
 | **Databases**       | PostgreSQL · MySQL · MongoDB · Elasticsearch · Redis                                      |
 | **DevOps & CI/CD**  | Docker · GitHub Actions · Firebase                                                        |
